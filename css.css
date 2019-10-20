@@ -1,0 +1,20 @@
+body {
+    font-family: Verdana;
+    font-style: normal;
+    font-weight: 600;
+     background-color: #FF7F11 ;
+  }
+  .content {
+    max-width: 500px;
+    margin: auto;
+    margin-block-start: 10%;
+  }
+
+
+  .footer{ 
+       position: fixed;     
+       text-align: center;    
+       bottom: 0px; 
+       width: 100%;
+   } 
+
