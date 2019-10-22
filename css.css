@@ -3,8 +3,8 @@ body {
     font-style: normal;
     font-weight: 600;
  background: #eb01a5;
-  background-image: url(pic.jpg');
-background-image: url('pic.jpg') linear-gradient(rgba(241, 39, 17, 1), rgba(245, 175, 25, 1));
+  background-image: url("pic.jpg");
+background-image: url("pic.jpg") linear-gradient(rgba(241, 39, 17, 1), rgba(245, 175, 25, 1));
 width: 80%;
 height: 200px;
 background-size: cover;
