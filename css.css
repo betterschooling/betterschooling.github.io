@@ -2,18 +2,30 @@ body  {
         font-family: Verdana;
         font-style: normal;
         font-weight: 600;
-        background: #f5af19;
-        background-image: url("pic.jpg";
-        background-color: linear-gradient(to bottom right, #f12711, #f5af19);
-        height: 100%;
-        background-size: cover;
-        background-repeat: no-repeat;
+      
       }
   .content {
-    max-width: 500px;
     margin: auto;
     margin-block-start: 10%;
+    position: relative;
+     width: 100%;
+     min-height: 400px;
+    background: url("pic.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
   }
+
+.banner:after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: linear-gradient (#f12711, #f5af19);
+  opacity: 0.6;
+}
 
 
   .footer{ 
