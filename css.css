@@ -1,35 +1,33 @@
 
+ 
 body {
 
-    font-family: Verdana;
+  font-family: Verdana;
 
-    font-style: normal;
+  font-style: normal;
 
-    font-weight: 600;
-    
-    background: linear-gradient(rgba(241, 39, 17, 1), rgba(245, 175, 25, 1)),  no-repeat ;
+  font-weight: 600;
+  background: chartreuse ;
 
-  }
+}
 
-  .content {
+.content {
 
-    max-width: 500px;
+  max-width: 500px;
 
-    margin: auto;
+  margin: auto;
 
-    margin-block-start: 10%;
-  
 
-  }
+}
 
-  .footer{ 
+.footer{ 
 
-       position: fixed;     
+     position: fixed;     
 
-       text-align: center;    
+     text-align: center;    
 
-       bottom: 0px; 
+     bottom: 0px; 
 
-       width: 100%;
+     width: 100%;
 
-   } 
+ } 
