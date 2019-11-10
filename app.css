@@ -11,11 +11,11 @@ html {
 #content {
     text-align: center;
     padding-top: 25%;
-   text-shadow: -6px -5px 4px rgba(0,0,0,0.83);
 }
 
 h1, h3 {
   color: white;
+ text-shadow: -5px -4px 6px rgba(0,0,0,0.4);
 }
 
 h1{
