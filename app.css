@@ -32,17 +32,4 @@ body {
   hr{
     opacity: 50%;
   }
-  .footer {
-    height: 50px;
-    margin-top: -50px;
-    position: absolute;
-    left: 0;
-    bottom: 0;
-    height: 40px;
-    width: 100%;
-    color:#FFFFFF; 
-    background:  #3498db;
-    font-size:1.2em; 
-    text-align: center;
-    line-height:40px;
-  }
+ 
